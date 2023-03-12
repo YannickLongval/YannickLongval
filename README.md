@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Name: Yannick Longval\n
-Education: Computer Science Student at the University of Toronto Mississauga (UTM).\n
-Interests: Machine learning, data analytics.\n
+<p>Name: Yannick Longval</p>
+<p>Education: Computer Science Student at the University of Toronto Mississauga (UTM).</p>
+<p>Interests: Machine learning, data analytics.</p>
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
