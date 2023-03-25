@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p>Name: Yannick Longval</p>
-<p>Education: Computer Science Student at the University of Toronto Mississauga (UTM).</p>
-<p>Interests: Machine learning, data analytics.</p>
+<p>My name is Yannick, a Computer Science student at the University of Toronto. I am passionate about learning and using my knowledge to solve interesting problems. My current interests include machine learning, automation, and financial Trading.</p>
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,6 +31,10 @@
 [![Email](https://img.shields.io/badge/-email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:y.longval@mail.utoronto.ca)
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-longval)
 [![Portfolio](https://img.shields.io/badge/-portfolio-e1e1e1?style=for-the-badge&logo=yl&logoColor=white)](https://yannicklongval.github.io/ylongval/)
+
+## Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ylongval)](https://leetcode.com/ylongval/)
+
 <!--
 **YannickLongval/YannickLongval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
