@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>My name is Yannick, a Computer Science student at the University of Toronto. I am passionate about learning and using my knowledge to solve interesting problems. My current interests include Machine Learning, Automation, and Financial Trading.</p>
+<p>My name is Yannick, a Computer Science student at the University of Toronto. I am passionate about learning and using my knowledge to solve interesting problems. My current interests include Machine Learning, and Financial Trading.</p>
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
