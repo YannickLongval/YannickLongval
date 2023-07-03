@@ -31,9 +31,9 @@
 [![Email](https://img.shields.io/badge/-email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:y.longval@mail.utoronto.ca)
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-longval)
 [![Portfolio](https://img.shields.io/badge/-portfolio-e1e1e1?style=for-the-badge&logo=yl&logoColor=white)](https://yannicklongval.github.io/ylongval/)
-<!-- 
-## Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ylongval)](https://leetcode.com/ylongval/) -->
+
+## More
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ylongval)](https://leetcode.com/ylongval/)
 
 <!--
 **YannickLongval/YannickLongval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
