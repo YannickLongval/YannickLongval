@@ -1,45 +1,51 @@
 ### Hi there 👋
 
-I'm **Yannick Longval** — a Computer Science student at the University of Toronto. I enjoy building practical machine-learning projects and exploratory software for finance and data science.
+<p>My name is Yannick, a Computer Science student at the University of Toronto. I am passionate about learning and using my knowledge to solve real-world problems. My current interests include Machine Learning, and Financial Trading.</p>
 
-- 👨‍🎓 Location: Toronto, Canada
-- 🔭 Interests: Machine Learning, Financial Trading, Computer Vision
-- 📫 Email: y.longval@mail.utoronto.ca
+## Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
----
+## Technologies/Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![Followers](https://img.shields.io/github/followers/YannickLongval?style=for-the-badge)
-![Public Repos](https://img.shields.io/badge/Public%20repos-13-blue?style=for-the-badge)
-![Private Repos](https://img.shields.io/badge/Private%20repos-23-lightgrey?style=for-the-badge)
-
----
-
-## Featured Projects
-Here are some projects and packages I'm actively working on or proud of — click to view the repo.
-
-- [med-link](https://github.com/YannickLongval/med-link) — Solidity / blockchain project (2025)
-- [ASLTranslator](https://github.com/YannickLongval/ASLTranslator) — American Sign Language recognition (Python)
-- [FinSense](https://github.com/YannickLongval/FinSense) — Sentiment analysis for financial news (Python)
-- [Solve.ai](https://github.com/YannickLongval/Solve.ai) — Assignment answering / question solver (Python)
-- [ylongval](https://github.com/YannickLongval/ylongval) — My personal website (JS)
-- [CSC311-ML-Challenge](https://github.com/YannickLongval/CSC311-ML-Challenge) — Coursework / ML challenge (Python)
-
-> Tip: If you'd like a different set of projects highlighted, tell me which ones to pin.
-
----
-
-## Tech Stack
-Python · JavaScript · TypeScript · Solidity · C# · Java · Machine Learning · Flask · Node.js · Vue · Angular · React
-
----
+## Contact me/More
+[![Email](https://img.shields.io/badge/-email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:y.longval@mail.utoronto.ca)
+[![LinkedIn](https://img.shields.io/badge/-linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-longval)
+[![Portfolio](https://img.shields.io/badge/-portfolio-e1e1e1?style=for-the-badge&logo=yl&logoColor=white)](https://yannicklongval.github.io/ylongval/)
 
 ## More
-- LeetCode: [ylongval](https://leetcode.com/ylongval/)
-- LinkedIn: https://www.linkedin.com/in/yannick-longval
-- Portfolio: https://yannicklongval.github.io/ylongval/
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ylongval)](https://leetcode.com/ylongval/)
 
----
+<!--
+**YannickLongval/YannickLongval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Thanks for visiting — if you'd like to collaborate, feel free to open an issue or email me.
+Here are some ideas to get you started:
 
-<!-- Auto-generated by assistant: updated profile README using live GitHub data -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
