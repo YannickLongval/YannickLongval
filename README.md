@@ -1,51 +1,36 @@
-### Hi there 👋
+<p align="center">
+	<img src="./assets/header.svg" alt="header" width="980" />
+</p>
 
-<p>My name is Yannick, a Computer Science student at the University of Toronto. I am passionate about learning and using my knowledge to solve real-world problems. My current interests include Machine Learning, and Financial Trading.</p>
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Yannick+Longval;Computer+Science+Student;Machine+Learning+%26+Data+Science;Building+useful+prototypes" alt="typing" />
+</p>
 
-## Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### Hey! I’m Yannick 👋
 
-## Technologies/Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+I build applied machine-learning and data projects, computer-vision systems, full‑stack web apps, and research/prototype smart-contract code. I study Computer Science at the University of Toronto and focus on reproducible, well-documented prototypes.
 
-## Contact me/More
-[![Email](https://img.shields.io/badge/-email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:y.longval@mail.utoronto.ca)
-[![LinkedIn](https://img.shields.io/badge/-linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-longval)
-[![Portfolio](https://img.shields.io/badge/-portfolio-e1e1e1?style=for-the-badge&logo=yl&logoColor=white)](https://yannicklongval.github.io/ylongval/)
+- 🔭 Current focus: ML for real-world data, financial research tools, and reproducible prototypes
+- 🌱 Learning: advanced deep learning architectures and Solidity development
+- 💬 Chat about: ML, trading systems, computer vision, and full‑stack engineering
 
-## More
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ylongval)](https://leetcode.com/ylongval/)
+---
 
-<!--
-**YannickLongval/YannickLongval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I build
 
-Here are some ideas to get you started:
+- Machine-learning experiments and reproducible notebooks
+- Data analysis and finance-focused research code
+- Computer-vision prototypes and tooling
+- Small full‑stack applications and developer utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech & tools
+Python · PyTorch/TensorFlow · scikit-learn · JavaScript · Node.js · TypeScript · Solidity · SQL · Flask · Vue/React · Git
+
+---
+
+### Contact
+- Email: y.longval@mail.utoronto.ca
+- LinkedIn: https://www.linkedin.com/in/yannick-longval
+- Portfolio: https://yannicklongval.github.io/ylongval/
