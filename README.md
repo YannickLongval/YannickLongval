@@ -2,10 +2,6 @@
 	<img src="./assets/header.svg" alt="header" width="980" />
 </p>
 
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Yannick+Longval;Computer+Science+Student;Machine+Learning+%26+Data+Science;Building+useful+prototypes" alt="typing" />
-</p>
-
 ### Hey! I’m Yannick 👋
 
 I build applied machine-learning and data projects, computer-vision systems, full‑stack web apps, and research/prototype smart-contract code. I study Computer Science at the University of Toronto and focus on reproducible, well-documented prototypes.
